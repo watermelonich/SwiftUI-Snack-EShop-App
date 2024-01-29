@@ -1,2 +1,2 @@
-# SwiftUI-Snack-EShop-App
+# SwiftUI Snack EShop App
 A simple Snack Shop App made with SwiftUI
